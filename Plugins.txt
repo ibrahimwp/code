@@ -6,3 +6,4 @@
 6. Wow Divi Carousel lite
 7. Lordicon Website for creating animated icon
 8. Social Login, Social Sharing by miniOrange
+9. https://wordpress.org/plugins/wp-map-block/ 
