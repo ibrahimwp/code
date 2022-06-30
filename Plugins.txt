@@ -8,3 +8,4 @@
 8. Social Login, Social Sharing by miniOrange
 9. https://wordpress.org/plugins/wp-map-block/ 
 10. Spotlight - Social Media Feeds
+11. https://github.com/kevinruscoe/acf-star-rating-field
