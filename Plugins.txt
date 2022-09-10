@@ -22,3 +22,4 @@
 22. Tidio Chat
 23. WooCommerce Wholesale Prices by Rymera web co
 24. YITH WooCommerce Wishlist
+25. CTX Feed
