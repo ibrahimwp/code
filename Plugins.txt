@@ -23,3 +23,5 @@
 23. WooCommerce Wholesale Prices by Rymera web co
 24. YITH WooCommerce Wishlist
 25. CTX Feed
+26. Polylang connect for Elementor
+27. 
